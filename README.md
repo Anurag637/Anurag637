@@ -1,67 +1,67 @@
-# Anurag Pandey  
-**Software Engineer | AI/ML Specialist | Prompt Engineer**  
-📍 | ✉️ [Your Email] | 🔗 [LinkedIn](https://www.linked9534a)  
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+22609
+Fork on GitHub
+7457
 
-## 👨‍💻 About Me  
-B.Tech graduate in **Computer Science (AI & ML)** with hands-on experience in **Machine Learning, Deep Learning, and Prompt Engineering**. Passionate about building intelligent systems and solving real-world problems with AI.  
+back to edit
 
-## 🛠️ Technical Skills  
-- **Programming**: Python, Java  
-- **AI/ML**: Deep Learning, NLP, Computer Vision, Transformers  
-- **Data Science**: Pandas, NumPy, Scikit-learn, Data Visualization  
-- **Frameworks**: TensorFlow, Keras, OpenCV, PyTorch  
-- **Databases**: SQL, Relational Databases  
-- **Tools**: Git, Jupyter Notebook, VS Code  
+copy-markdown
 
-## 💼 Work Experience  
+download markdown
 
-### **CDAC, Noida**  
-*Ex-Intern | June 2024 - July 2024*  
-- Worked on AI/ML-based projects under mentorship.  
-- Developed and optimized deep learning models.  
+download backup
 
-### **Edunet Foundation (AICTE)**  
-*AI: Transformative Learning with TechSaksham | Feb 2025 – March 2025*  
-- Contributed to AI education initiatives.  
-- Built and deployed ML models for real-world applications.  
+preview
+<h1 align="center">Hi 👋, I'm Anurag Pandey</h1>
+<h3 align="center">Passionate about Software Engineer and Prompt Engineer</h3>
 
-## 🎓 Education  
-**B.Tech in Computer Science (AI & ML)**  
-*[Your University Name], [Year of Graduation]*  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag637&label=Profile%20views&color=0e75b6&style=flat" alt="anurag637" /> </p>
 
-## 📜 Certifications  
-- **Geodata Processing using Python & ML**  
-- **Tata Group - Data Visualization & Business Insights**  
-- **Prompt Engineering for Everyone**  
-- **SQL & Relational Databases 101**  
-- **Data Analysis with Python**  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag637" alt="anurag637" /></a> </p>
 
-## 🚀 Projects  
+- 🔭 I’m currently working on [Deepfake Detection System](https://github.com/Anurag637/Deepfake-Detection.git)
 
-### **1. Deepfake Detection System**  
-- Developed a **CNN-based model** to detect manipulated images/videos.  
-- Used **OpenCV & TensorFlow** for preprocessing and training.  
-- Achieved **~90% accuracy** on test datasets.  
+- 🌱 I’m currently learning **DSA**
 
-### **2. Resume Screening & Ranking System**  
-- Built an **NLP-based** system to parse and rank resumes.  
-- Leveraged **TF-IDF & Cosine Similarity** for matching job descriptions.  
+- 👯 I’m looking to collaborate on [Deepfake Detection System](https://github.com/Anurag637/Deepfake-Detection.git)
 
-### **3. Email Spam Detection**  
-- Designed a **Naive Bayes classifier** to filter spam emails.  
-- Processed text data using **NLTK & Scikit-learn**.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/anurag637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anurag637" height="30" width="40" /></a>
+</p>
 
-### **4. Text Classification using Transformers**  
-- Fine-tuned **BERT & GPT-based models** for sentiment analysis.  
-- Achieved state-of-the-art results on benchmark datasets.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats  
-![Your GitHub Stats]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag637&show_icons=true&locale=en&layout=compact" alt="anurag637" /></p>
 
-## 🔗 Connect with Me  
-- [LinkedIn](https://www.linkedn9534a)  
-- [GitHub](https://github.csername)  
-- [Portfolio](https://yourportfoim) *(if applicable)*  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag637&show_icons=true&locale=en" alt="anurag637" /></p>
 
----  
-⭐ **Open to collaborations in AI/ML & Software Development!** ⭐  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag637&" alt="anurag637" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
