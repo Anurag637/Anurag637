@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anurag Pandey 👋</h1>
-<h3 align="center">Software Engineer | Machine Learning & Prompt Engineer</h3>
+<h3 align="center">Software Engineer | Machine Learning </h3>
 
 <p align="center">
   I build intelligent, data-driven applications — from computer vision systems to NLP pipelines and LLM-powered tools.
