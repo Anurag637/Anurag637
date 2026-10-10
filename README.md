@@ -97,7 +97,7 @@ graph LR
 ### 💼 Experience
 
 <details open>
-<summary><b>💼 Machine Learning Intern | MAxxxxxxx Pvt. Ltd.</b> <i>(June 2026 – Sep 2026 · Bangalore, India)</i></summary>
+<summary><b>💼 Machine Learning Intern | MAN MACHINE Technocrats Pvt. Ltd.</b> <i>(June 2026 – Sep 2026 · Bangalore, India)</i></summary>
 <br>
 
 - Developed machine learning models using Python with hands-on experience in data preprocessing, feature engineering, and model evaluation.
@@ -105,7 +105,7 @@ graph LR
 </details>
 
 <details open>
-<summary><b>🤖 AI Intern – TechSaksham Program | Exxxxxxxxn (in collaboration with Microsoft & SAP)</b> <i>(Feb 2025 – March 2025 · Remote)</i></summary>
+<summary><b>🤖 AI Intern – TechSaksham Program | Edunet Foundation (in collaboration with Microsoft & SAP)</b> <i>(Feb 2025 – March 2025 · Remote)</i></summary>
 <br>
 
 - Developed an intelligent **Resume Screening and Ranking System** using Python, NLP, and Scikit-learn.
@@ -113,7 +113,7 @@ graph LR
 </details>
 
 <details open>
-<summary><b>📊 Data Science Intern | Cxx</b> <i>(June 2024 – July 2024 · Noida, India)</i></summary>
+<summary><b>📊 Data Science Intern | C-DAC (Centre for Development of Advanced Computing)</b> <i>(June 2024 – July 2024 · Noida, India)</i></summary>
 <br>
 
 - Built a spam email classification system using NLP techniques (TF-IDF vectorization, tokenization).
