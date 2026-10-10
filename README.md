@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:637anurag@gmail.com">
+    <a href="mailto:shivapandey8429@gmail.com.com">
       <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
@@ -240,13 +240,13 @@ graph LR
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 🐍 Contribution Activity Snake (Grows With Every Commit Eaten)
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg">
+    <img alt="Contribution Snake Animation (Grows As It Eats)" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg" width="100%" />
   </picture>
 </div>
 
