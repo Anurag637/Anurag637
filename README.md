@@ -2,39 +2,70 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=220&section=header&text=Anurag%20Pandey&fontSize=48&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <a href="https://github.com/Anurag637">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=AI+%26+Machine+Learning+Engineer;LLM+%26+RAG+Developer;Deep+Learning+%26+NLP+Specialist;FastAPI+%26+Full-Stack+AI+Builder;Kaggle+Hackathon+Winner" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;LLM+%26+RAG+Pipeline+Architect;Deep+Learning+%26+Computer+Vision+Specialist;FastAPI+%26+Full-Stack+AI+Developer;Kaggle+Hackathon+First+Prize+Winner" alt="Typing Title" />
   </a>
 
   <p align="center">
-    <b>AI & Machine Learning Engineer with hands-on experience developing & deploying end-to-end AI/ML systems.</b>
+    <b>Crafting production-grade, data-driven systems — from computer vision & NLP pipelines to high-throughput LLM gateways.</b>
   </p>
 
   <p align="center">
     <a href="https://github.com/Anurag637?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+      <img src="https://img.shields.io/badge/Repositories-28+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/anurag637/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="mailto:637anurag@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Anurag637&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 Summary
+### 👨‍💻 Executive Summary
 
-> AI & Machine Learning Engineer with hands-on experience in developing and deploying AI/ML solutions using **Python, NLP, Deep Learning, and LLM technologies**. Experienced in building real-world applications involving **LLM systems, RAG pipelines, deepfake detection, resume screening**, and end-to-end machine learning model development.
+> **AI & Machine Learning Engineer** with hands-on experience in developing and deploying scalable AI/ML solutions using **Python, NLP, Deep Learning, and LLM technologies**. Experienced in building real-world applications involving **LLM systems, RAG pipelines, deepfake detection, resume screening**, and end-to-end model development and inference optimization.
 
 ```yaml
 name: Anurag Pandey
-role: AI & Machine Learning Engineer
-core_stack: [Python, LLMs, RAG, Deep Learning, NLP, FastAPI]
-status: Open to Software Engineering & ML Roles
+specialization: AI / Machine Learning / LLM Engineering
+current_focus: Building autonomous AI systems & scalable inference gateways
+work_status: Open to Software Engineering & ML Roles
+location: India (Available for Remote / Relocation)
+```
+
+---
+
+### ⚡ Live Status & Radar
+
+- 🚀 **Currently Building:** [QChat v2](https://github.com/Anurag637/QChat) — Next-gen LLM inference gateway with semantic caching & streaming analytics.
+- 🔬 **Active Research:** Quantized model serving (vLLM, GGUF), Agentic multi-turn pipelines, and RAG retrieval fine-tuning.
+- 💡 **Philosophy:** Bridging the gap between bleeding-edge research papers and reliable production software.
+
+---
+
+### 🧠 How I Architect AI Systems
+
+```mermaid
+graph LR
+    A["📥 Ingestion & Preprocessing"] --> B["⚙️ Feature & Embedding Pipeline"]
+    B --> C["🗄️ Vector DB & RAG Indexing"]
+    C --> D["⚡ FastAPI Gateway & Cache"]
+    D --> E["🧠 LLM & Deep Learning Models"]
+    E --> F["🚀 Production Serving & Analytics"]
+
+    style A fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style B fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style C fill:#0d1117,stroke:#8b5cf6,stroke-width:2px,color:#fff
+    style D fill:#0d1117,stroke:#3b82f6,stroke-width:2px,color:#fff
+    style E fill:#0d1117,stroke:#ec4899,stroke-width:2px,color:#fff
+    style F fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -43,17 +74,17 @@ status: Open to Software Engineering & ML Roles
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏆 Hackathons & Honors</h4>
+    <td width="48%" valign="top">
+      <h4>🏆 Hackathons & Awards</h4>
       <ul>
         <li>🥇 <b>First Prize Winner</b> — <i>HACK4 Kaggle Hackathon</i> (April 2025)</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="52%" valign="top">
       <h4>📜 Professional Certifications</h4>
       <ul>
         <li>🎓 <b>AI Foundations Associate</b> — <i>Oracle</i> (Sep 2025)</li>
-        <li>🛰️ <b>Data Processing using Python and Machine Learning</b> — <i>ISRO</i> (Feb 2025)</li>
+        <li>🛰️ <b>Data Processing using Python & Machine Learning</b> — <i>ISRO</i> (Feb 2025)</li>
         <li>🤖 <b>Prompt Engineering</b> — <i>Cognitive Class</i> (Jan 2025)</li>
         <li>📊 <b>Data Analysis with Python</b> — <i>IBM</i> (Nov 2023)</li>
       </ul>
@@ -70,7 +101,7 @@ status: Open to Software Engineering & ML Roles
 <br>
 
 - Developed machine learning models using Python with hands-on experience in data preprocessing, feature engineering, and model evaluation.
-- Collaborated with technical teams on testing, debugging, and optimizing machine learning solutions for software and web-based applications.
+- Collaborated with technical teams on testing, debugging, and improving machine learning solutions for software and web-based applications.
 </details>
 
 <details open>
@@ -85,7 +116,7 @@ status: Open to Software Engineering & ML Roles
 <summary><b>📊 Data Science Intern | Cxx</b> <i>(June 2024 – July 2024 · Noida, India)</i></summary>
 <br>
 
-- Engineered an end-to-end spam email classification system utilizing NLP techniques (TF-IDF vectorization, tokenization).
+- Built a spam email classification system using NLP techniques (TF-IDF vectorization, tokenization).
 - Evaluated models including Logistic Regression and SVM, and deployed a live interactive **Streamlit** web application.
 </details>
 
@@ -106,7 +137,7 @@ status: Open to Software Engineering & ML Roles
   <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-darkblue?style=flat-square" alt="DSA" />
 </p>
 
-#### 🧠 AI, Machine Learning & LLMs
+#### 🧠 AI, Machine Learning, Deep Learning & LLMs
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" alt="ML Frameworks" />
 </p>
@@ -138,10 +169,10 @@ status: Open to Software Engineering & ML Roles
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Vercel-Frontend%20%26%20Gateways-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vercel-Production%20Hosting-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-#### 🛠️ Tools & IDEs
+#### 🛠️ Developer Tools & Environments
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm" alt="IDEs" />
 </p>
@@ -157,13 +188,46 @@ status: Open to Software Engineering & ML Roles
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Flagship Projects Spotlight
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Anurag637/QChat">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag637&repo=QChat&theme=tokyonight&hide_border=true&border_radius=10" alt="QChat Pin" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Anurag637/Deepfake-Detection">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag637&repo=Deepfake-Detection&theme=tokyonight&hide_border=true&border_radius=10" alt="Deepfake Detection Pin" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Anurag637/SHL-Assessment-Recommender">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag637&repo=SHL-Assessment-Recommender&theme=tokyonight&hide_border=true&border_radius=10" alt="SHL Recommender Pin" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Anurag637/SA_Capstone_Project-2025">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag637&repo=SA_Capstone_Project-2025&theme=tokyonight&hide_border=true&border_radius=10" alt="SmartPark Pin" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 All Featured Projects
 
 | Project | Description | Tech Stack | Highlights |
 | :--- | :--- | :--- | :---: |
 | **[LLM Inference Gateway & Prompt Router](https://github.com/Anurag637/QChat)** *(Jan 2026 – May 2026)* | High-throughput AI gateway built with FastAPI for intelligent request routing, response caching, metrics monitoring, and model registry for open-source LLMs. | `Python` `FastAPI` `Hugging Face` `Vercel` | [Live Demo](https://qchat-gateway.vercel.app/) 🌐 |
 | **[Deepfake Detection System](https://github.com/Anurag637/Deepfake-Detection)** *(Feb 2025 – May 2025)* | CNN-based deepfake detection pipeline trained on DFDC and FaceForensics++ benchmark datasets to identify manipulated facial media. | `Python` `TensorFlow` `OpenCV` `FastAPI` `Streamlit` | [Repository](https://github.com/Anurag637/Deepfake-Detection) 🛡️ |
-| **[Resume Ranking & Screening System](https://github.com/Anurag637/Resume-Ranking)** | Automated NLP/ML pipeline ranking applicant resumes against target job descriptions using vector embeddings and similarity scoring. | `Streamlit` `spaCy` `Scikit-learn` `PDFPlumber` | [Repository](https://github.com/Anurag637/Resume-Ranking) 📄 |
+| **[Resume Ranking & Screening System](https://github.com/Anurag637/Resume-Ranking)** | Automated candidate matching tool ranking resumes against job descriptions using vector embeddings and similarity scoring. | `Streamlit` `spaCy` `Scikit-learn` `PDFPlumber` | [Repository](https://github.com/Anurag637/Resume-Ranking) 📄 |
 | **[SHL Assessment Recommender](https://github.com/Anurag637/SHL-Assessment-Recommender)** | Conversational recommendation microservice grounded in the SHL catalog delivering tailored assessment recommendations. | `Python` `FastAPI` `NLP` | [Repository](https://github.com/Anurag637/SHL-Assessment-Recommender) 📦 |
 | **[SmartPark – Dynamic Pricing Engine](https://github.com/Anurag637/SA_Capstone_Project-2025)** | Real-time, data-driven pricing engine for urban parking with custom algorithmic pricing logic. | `Python` `NumPy` `Pandas` `Pathway` | [Capstone](https://github.com/Anurag637/SA_Capstone_Project-2025) 🚗 |
 | **[Text ↔ Speech ↔ Sign Interpreter](https://github.com/Anurag637/Text-Speech-Sign-Interpreater)** | Accessibility platform translating live speech to text and animating Indian Sign Language gestures. | `JavaScript` `NLTK` `Web Speech API` | [Repository](https://github.com/Anurag637/Text-Speech-Sign-Interpreater) 🤟 |
@@ -171,12 +235,34 @@ status: Open to Software Engineering & ML Roles
 | **[Pet Classification](https://github.com/Anurag637/Pet-Classification)** | Fine-tuned CNN image classifier identifying 37 distinct cat and dog breeds via transfer learning. | `Python` `TensorFlow` `Keras` | [Repository](https://github.com/Anurag637/Pet-Classification) 🐾 |
 
 <div align="center">
-  <p>📌 <b>Explore all 28+ repositories:</b> <a href="https://github.com/Anurag637?tab=repositories">github.com/Anurag637?tab=repositories</a></p>
+  <p>📌 <b>Explore all 28+ open-source repositories:</b> <a href="https://github.com/Anurag637?tab=repositories">github.com/Anurag637?tab=repositories</a></p>
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 🏆 GitHub 3D Trophies
+
+<div align="center">
+  <a href="https://github.com/Anurag637">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anurag637&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 📊 Analytics & Coding Activity
 
 <div align="center">
   <table border="0">
@@ -198,6 +284,12 @@ status: Open to Software Engineering & ML Roles
 
   <a href="https://github.com/Anurag637">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag637&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="Top Languages" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/Anurag637">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag637&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Line Graph" />
   </a>
 </div>
 
