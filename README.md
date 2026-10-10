@@ -252,13 +252,13 @@ graph LR
 
 ---
 
-### 🐍 Contribution Activity Snake (Grows With Every Commit Eaten)
+### 🐍 Contribution Activity Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
