@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=220&section=header&text=Anurag%20Pandey&fontSize=48&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="assets/banner.svg" width="100%" alt="Anurag Pandey - AI &amp; Machine Learning Engineer" />
+  <br /><br />
 
   <a href="https://github.com/Anurag637">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;LLM+%26+RAG+Pipeline+Architect;Deep+Learning+%26+Computer+Vision+Specialist;FastAPI+%26+Full-Stack+AI+Developer;Kaggle+Hackathon+First+Prize+Winner" alt="Typing Title" />
@@ -18,11 +19,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:shivapandey8429@gmail.com.com">
+    <a href="mailto:shivapandey8429@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Anurag637&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Anurag637">
+      <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20LLMs-38bdf8?style=for-the-badge&logo=openai&logoColor=white" alt="Focus Badge" />
+    </a>
   </p>
 </div>
 
@@ -122,66 +125,75 @@ graph LR
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Skills & Toolkit
 
 <div align="center">
 
 #### 💻 Programming Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,ts" alt="Languages" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-darkblue?style=flat-square" alt="DSA" />
 </p>
 
 #### 🧠 AI, Machine Learning, Deep Learning & LLMs
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" alt="ML Frameworks" />
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" title="PyTorch" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" width="55" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" title="OpenCV" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-8A2BE2?style=flat-square" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-008080?style=flat-square" alt="NLP" />
   <img src="https://img.shields.io/badge/Deep%20Learning-CNNs%20%26%20Transformers-orange?style=flat-square" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy" />
 </p>
 
 #### 🌐 Web Technologies & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" alt="Web Technologies" />
-  &nbsp;
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-#### ☁️ Cloud, DevOps & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" alt="DevOps" />
+#### ☁️ Cloud, DevOps, Tools & IDEs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm" width="45" height="45"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-Basic%20Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Railway-Deployment-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Vercel-Production%20Hosting-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-#### 🛠️ Developer Tools & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm" alt="IDEs" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apache&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 </p>
 
 </div>
@@ -246,18 +258,8 @@ graph LR
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg">
-    <img alt="Contribution Snake Animation (Grows As It Eats)" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg" width="100%" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Anurag637/Anurag637/output/snake.svg" width="100%" />
   </picture>
-</div>
-
----
-
-### 🏆 GitHub 3D Trophies
-
-<div align="center">
-  <a href="https://github.com/Anurag637">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anurag637&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
 </div>
 
 ---
@@ -304,7 +306,7 @@ graph LR
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:637anurag@gmail.com">
+  <a href="mailto:shivapandey8429@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
@@ -313,5 +315,5 @@ graph LR
   </a>
 
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="assets/footer.svg" width="100%" alt="Footer Banner" />
 </div>
