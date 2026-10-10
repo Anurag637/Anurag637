@@ -3,7 +3,7 @@
   <br /><br />
 
   <a href="https://github.com/Anurag637">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;LLM+%26+RAG+Pipeline+Architect;Deep+Learning+%26+Computer+Vision+Specialist;FastAPI+%26+Full-Stack+AI+Developer;Kaggle+Hackathon+First+Prize+Winner" alt="Typing Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;LLM+%26+RAG+Pipeline+Architect;Deep+Learning+%26+Computer+Vision+Specialist;FastAPI+%26+Full-Stack+AI+Developer;Kaggle+Hackathon+First+Prize+Winner" alt="Typing Title" />
   </a>
 
   <p align="center">
@@ -12,7 +12,7 @@
 
   <p align="center">
     <a href="https://github.com/Anurag637?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-28+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Repositories-39-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/anurag637/">
