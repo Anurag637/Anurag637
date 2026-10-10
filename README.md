@@ -92,65 +92,23 @@
 
 ---
 
-<a id="research-radar"></a>
-### 🔬 Research Radar: Papers Under Active Implementation
-
-Keeping up with foundational research papers to bridge the gap between academic discovery and production deployment:
-
-- 📄 **DeepSeek-V3 & R1:** Incentivizing reasoning and verifiable chain-of-thought in open-source language models.
-- ⚡ **FlashAttention-3:** Hardware-aligned asynchronous IO & low-precision FP8 attention execution.
-- 🔍 **ColBERTv2:** Lightweight token-level late interaction for high-precision, low-latency neural search.
-- 🧠 **PagedAttention & vLLM:** Near-zero memory waste in continuous batching and KV-cache management.
-
----
-
 <a id="architecture"></a>
 ### 🧠 How I Architect AI Systems
 
 ```mermaid
-flowchart TD
-    subgraph INGEST ["📥 1. Ingestion & Preprocessing"]
-        A1["Raw Unstructured Input<br/>(Text, Documents, Video, Audio)"] --> A2["Streaming Preprocessing & Normalization"]
-        A2 --> A3["Dense & Sparse Embeddings<br/>(BGE-M3 / OpenAI / ColBERT)"]
-    end
+graph LR
+    A["📥 Ingestion & Preprocessing"] --> B["⚙️ Feature & Embedding Pipeline"]
+    B --> C["🗄️ Vector DB & RAG Indexing"]
+    C --> D["⚡ FastAPI Gateway & Cache"]
+    D --> E["🧠 LLM & Deep Learning Models"]
+    E --> F["🚀 Production Serving & Analytics"]
 
-    subgraph RETRIEVAL ["🗄️ 2. Retrieval & Knowledge Index"]
-        A3 --> B1["Hybrid Vector Database<br/>(Qdrant / Milvus / Redis Vector)"]
-        B1 --> B2["Cross-Encoder Neural Re-Ranking<br/>(Cohere Rerank / BGE-Reranker)"]
-    end
-
-    subgraph GATEWAY ["⚡ 3. High-Throughput API Gateway"]
-        C1["Client Request"] --> C2["Async FastAPI Gateway"]
-        C2 --> C3{"Semantic Cache Hit?<br/>(Cosine Sim >= 0.92)"}
-        C3 -- "HIT: Sub-15ms Return" --> C4["Cached Response Returned"]
-        C3 -- "MISS: Route to Pipeline" --> B2
-        B2 --> C5["Context Synthesizer & Prompt Compiler"]
-    end
-
-    subgraph INFERENCE ["🧠 4. Inference & Serving Engine"]
-        C5 --> D1["Quantized LLM Engine<br/>(vLLM / AWQ / GGUF / Ollama)"]
-        D1 --> D2["Output Guardrails & Type Validation"]
-        D2 --> D3["Streaming SSE / Chunked WebSocket Output"]
-    end
-
-    subgraph OPS ["📈 5. Production Observability & MLOps"]
-        D3 --> E1["Latency, Token & Drift Monitoring"]
-        D3 --> E2["Docker Containerization & Automated CI/CD"]
-    end
-
-    style A1 fill:#080c14,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style A2 fill:#080c14,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style A3 fill:#080c14,stroke:#38bdf8,stroke-width:2px,color:#fff
-    style B1 fill:#080c14,stroke:#8b5cf6,stroke-width:2px,color:#fff
-    style B2 fill:#080c14,stroke:#8b5cf6,stroke-width:2px,color:#fff
-    style C2 fill:#080c14,stroke:#3b82f6,stroke-width:2px,color:#fff
-    style C3 fill:#080c14,stroke:#f59e0b,stroke-width:2px,color:#fff
-    style C4 fill:#080c14,stroke:#10b981,stroke-width:2px,color:#fff
-    style D1 fill:#080c14,stroke:#ec4899,stroke-width:2px,color:#fff
-    style D2 fill:#080c14,stroke:#ec4899,stroke-width:2px,color:#fff
-    style D3 fill:#080c14,stroke:#10b981,stroke-width:2px,color:#fff
-    style E1 fill:#080c14,stroke:#64748b,stroke-width:1.5px,color:#fff
-    style E2 fill:#080c14,stroke:#64748b,stroke-width:1.5px,color:#fff
+    style A fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style B fill:#0d1117,stroke:#38bdf8,stroke-width:2px,color:#fff
+    style C fill:#0d1117,stroke:#8b5cf6,stroke-width:2px,color:#fff
+    style D fill:#0d1117,stroke:#3b82f6,stroke-width:2px,color:#fff
+    style E fill:#0d1117,stroke:#ec4899,stroke-width:2px,color:#fff
+    style F fill:#0d1117,stroke:#10b981,stroke-width:2px,color:#fff
 ```
 
 ---
