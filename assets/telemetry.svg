@@ -165,7 +165,7 @@
   <g transform="translate(24, 192)">
     <rect width="806" height="26" rx="6" fill="#090d16" stroke="#1e293b" stroke-width="0.8"/>
     <text class="mono-text" x="12" y="17" font-size="10" fill="#64748b">
-      <tspan fill="#38bdf8">ACTIVE MICROSERVICES:</tspan> FastAPI-Gateway:8000 <tspan fill="#10b981">●</tspan> &nbsp;|&nbsp; Redis-SemanticCache:6379 <tspan fill="#10b981">●</tspan> &nbsp;|&nbsp; Qdrant-VectorCluster:6333 <tspan fill="#10b981">●</tspan> &nbsp;|&nbsp; vLLM-InferenceEngine:8001 <tspan fill="#10b981">●</tspan>
+      <tspan fill="#38bdf8">ACTIVE MICROSERVICES:</tspan> FastAPI-Gateway:8000 <tspan fill="#10b981">●</tspan> &#160;|&#160; Redis-SemanticCache:6379 <tspan fill="#10b981">●</tspan> &#160;|&#160; Qdrant-VectorCluster:6333 <tspan fill="#10b981">●</tspan> &#160;|&#160; vLLM-InferenceEngine:8001 <tspan fill="#10b981">●</tspan>
     </text>
   </g>
 </svg>

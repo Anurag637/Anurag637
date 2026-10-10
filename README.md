@@ -12,7 +12,7 @@
 
   <p align="center">
     <a href="https://github.com/Anurag637?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Dynamic_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Repositories-33_Public-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/anurag637/">
@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="My%20Resume%204.0.pdf">
+    <a href="https://github.com/Anurag637/Anurag637/raw/main/My%20Resume%204.0.pdf">
       <img src="https://img.shields.io/badge/Resume-Download%20PDF-10B981?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
     </a>
     &nbsp;
@@ -32,22 +32,23 @@
     </a>
   </p>
 
-  <!-- Sticky Quick Navigation Bar -->
+  <!-- Sticky Quick Navigation Bar with Bulletproof Anchor IDs -->
   <p align="center">
-    <a href="#-recruiter-fast-track--snapshot"><b>[ 🎯 Fast Track ]</b></a> &nbsp;•&nbsp;
-    <a href="#-live-inference-cluster-telemetry"><b>[ ⚡ Telemetry ]</b></a> &nbsp;•&nbsp;
-    <a href="#-how-i-architect-ai-systems"><b>[ 🧠 Architecture ]</b></a> &nbsp;•&nbsp;
-    <a href="#-production-benchmarks--performance-radar"><b>[ 📊 Benchmarks ]</b></a> &nbsp;•&nbsp;
-    <a href="#-engineering-case-studies--flagship-deep-dives"><b>[ 🔬 Case Studies ]</b></a> &nbsp;•&nbsp;
-    <a href="#-flagship-projects-spotlight"><b>[ 🌟 Projects ]</b></a> &nbsp;•&nbsp;
-    <a href="#-experience"><b>[ 💼 Experience ]</b></a> &nbsp;•&nbsp;
-    <a href="#️-technical-skills--toolkit"><b>[ 🛠️ Toolkit ]</b></a> &nbsp;•&nbsp;
-    <a href="#-analytics--coding-activity"><b>[ 📈 Analytics ]</b></a>
+    <a href="#fast-track"><b>[ 🎯 Fast Track ]</b></a> &nbsp;•&nbsp;
+    <a href="#telemetry"><b>[ ⚡ Telemetry ]</b></a> &nbsp;•&nbsp;
+    <a href="#architecture"><b>[ 🧠 Architecture ]</b></a> &nbsp;•&nbsp;
+    <a href="#benchmarks"><b>[ 📊 Benchmarks ]</b></a> &nbsp;•&nbsp;
+    <a href="#case-studies"><b>[ 🔬 Case Studies ]</b></a> &nbsp;•&nbsp;
+    <a href="#projects"><b>[ 🌟 Projects ]</b></a> &nbsp;•&nbsp;
+    <a href="#experience"><b>[ 💼 Experience ]</b></a> &nbsp;•&nbsp;
+    <a href="#toolkit"><b>[ 🛠️ Toolkit ]</b></a> &nbsp;•&nbsp;
+    <a href="#analytics"><b>[ 📈 Analytics ]</b></a>
   </p>
 </div>
 
 ---
 
+<a id="fast-track"></a>
 ### 🎯 Recruiter Fast Track & Snapshot
 
 > **Looking for a high-impact AI/ML Engineer who writes clean, scalable, production-ready code?**
@@ -63,6 +64,7 @@
 
 ---
 
+<a id="telemetry"></a>
 ### ⚡ Live Inference Cluster Telemetry
 
 <div align="center">
@@ -90,6 +92,7 @@
 
 ---
 
+<a id="research-radar"></a>
 ### 🔬 Research Radar: Papers Under Active Implementation
 
 Keeping up with foundational research papers to bridge the gap between academic discovery and production deployment:
@@ -101,6 +104,7 @@ Keeping up with foundational research papers to bridge the gap between academic 
 
 ---
 
+<a id="architecture"></a>
 ### 🧠 How I Architect AI Systems
 
 ```mermaid
@@ -117,8 +121,8 @@ flowchart TD
 
     subgraph GATEWAY ["⚡ 3. High-Throughput API Gateway"]
         C1["Client Request"] --> C2["Async FastAPI Gateway"]
-        C2 --> C3{"Semantic Cache Hit?<br/>(Cosine Sim &ge; 0.92)"}
-        C3 -- "HIT: Return in &lt;15ms" --> C4["Cached Response Returned"]
+        C2 --> C3{"Semantic Cache Hit?<br/>(Cosine Sim >= 0.92)"}
+        C3 -- "HIT: Sub-15ms Return" --> C4["Cached Response Returned"]
         C3 -- "MISS: Route to Pipeline" --> B2
         B2 --> C5["Context Synthesizer & Prompt Compiler"]
     end
@@ -151,6 +155,7 @@ flowchart TD
 
 ---
 
+<a id="benchmarks"></a>
 ### ⚡ Production Benchmarks & Performance Radar
 
 Quantitative engineering benchmarks measured across real-world workloads:
@@ -164,6 +169,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
 
 ---
 
+<a id="case-studies"></a>
 ### 🔬 Engineering Case Studies & Flagship Deep Dives
 
 <details open>
@@ -190,6 +196,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
 
 ---
 
+<a id="achievements"></a>
 ### 🏆 Achievements & 📜 Professional Certifications
 
 <table width="100%">
@@ -198,7 +205,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
       <h4>🏆 Hackathons & Accolades</h4>
       <ul>
         <li>🥇 <b>First Prize Winner</b> — <i>HACK4 Kaggle Hackathon</i> (April 2025)</li>
-        <li>🚀 <b>Open-Source Maintainer</b> — Created & maintained 28+ open-source AI repositories</li>
+        <li>🚀 <b>Open-Source Maintainer</b> — Created & maintained 33+ open-source AI repositories</li>
         <li>🌐 <b>Global Collaboration</b> — Active contributor to modern LLM & RAG architectures</li>
       </ul>
     </td>
@@ -216,10 +223,11 @@ Quantitative engineering benchmarks measured across real-world workloads:
 
 ---
 
+<a id="experience"></a>
 ### 💼 Experience
 
 <details open>
-<summary><b>💼 Machine Learning Intern | MAN MACHINE Technocrats Pvt. Ltd.</b> <i>(June 2026 – Sep 2026 · Bangalore, India)</i></summary>
+<summary><b>💼 Machine Learning Intern | MAN MACHINE Technocrats Pvt. Ltd.</b> <i>(Bangalore, India)</i></summary>
 <br>
 
 - Engineered and fine-tuned machine learning models using Python with rigorous data preprocessing, feature engineering, and cross-validation pipelines.
@@ -247,6 +255,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
 
 ---
 
+<a id="toolkit"></a>
 ### 🛠️ Technical Skills & Toolkit
 
 <div align="center">
@@ -324,6 +333,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
 
 ---
 
+<a id="projects"></a>
 ### 🌟 Flagship Projects Spotlight
 
 <div align="center">
@@ -371,7 +381,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
 | **[Pet Classification](https://github.com/Anurag637/Pet-Classification)** | Fine-tuned CNN image classifier identifying 37 distinct cat and dog breeds via transfer learning. | `Python` `TensorFlow` `Keras` | [Repository](https://github.com/Anurag637/Pet-Classification) 🐾 |
 
 <div align="center">
-  <p>📌 <b>Explore all 28+ open-source repositories:</b> <a href="https://github.com/Anurag637?tab=repositories">github.com/Anurag637?tab=repositories</a></p>
+  <p>📌 <b>Explore all 33+ open-source repositories:</b> <a href="https://github.com/Anurag637?tab=repositories">github.com/Anurag637?tab=repositories</a></p>
 </div>
 
 ---
@@ -395,16 +405,10 @@ Quantitative engineering benchmarks measured across real-world workloads:
 
 ---
 
+<a id="analytics"></a>
 ### 📊 Analytics & Coding Activity
 
 <div align="center">
-  <!-- GitHub 3D Trophies -->
-  <a href="https://github.com/Anurag637">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anurag637&theme=tokyonight&no-frame=true&no-bg=true&margin_w=6&row=1&column=7" alt="GitHub Profile Trophies" />
-  </a>
-
-  <br /><br />
-
   <table border="0">
     <tr>
       <td align="center">
@@ -425,16 +429,11 @@ Quantitative engineering benchmarks measured across real-world workloads:
   <a href="https://github.com/Anurag637">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag637&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&border_color=38bdf833" height="175" alt="Top Languages" />
   </a>
-
-  <br /><br />
-
-  <a href="https://github.com/Anurag637">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag637&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Line Graph" />
-  </a>
 </div>
 
 ---
 
+<a id="connect"></a>
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -452,8 +451,8 @@ Quantitative engineering benchmarks measured across real-world workloads:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="My%20Resume%204.0.pdf">
-    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  <a href="https://github.com/Anurag637/Anurag637/raw/main/My%20Resume%204.0.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-10B981?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 
   <br /><br />
