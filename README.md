@@ -347,6 +347,7 @@ Quantitative engineering benchmarks measured across real-world workloads:
 ### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [Solver Standalone](https://github.com/Anurag637/Solver-Standalone/releases/tag/v4.0.0) in [Anurag637/Solver-Standalone](https://github.com/Anurag637/Solver-Standalone)
 <!--END_SECTION:activity-->
 
 ---
